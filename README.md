@@ -1,4 +1,4 @@
-![](https://i.pinimg.com/originals/48/40/2c/48402c5e68b53ecd535826d1936f2f7e.gif)
+![_](https://i.pinimg.com/originals/48/40/2c/48402c5e68b53ecd535826d1936f2f7e.gif)
 <!---
 <img src="https://i.pinimg.com/originals/48/40/2c/48402c5e68b53ecd535826d1936f2f7e.gif" width="40" height="40" />
 --->
